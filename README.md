@@ -1,3 +1,3 @@
-<img src="https://github.com/0-V-linuxdo/-YouTube-Keywords-Search-Enhanced/raw/refs/heads/main/assets/main_icon.svg/>
+<img src="./assets/main_icon.svg" width="40" height="40"/>
 
 # [YouTube] Keywords Search Enhanced
